@@ -1,0 +1,1 @@
+fixed_states_source.csv , 5,3,0,7 (4|7)(1|10) True day/month/year 0,1 fixed_states_destenation.csv , 0,1,8,9 True day/month/year 8,10 hamara.csv:4 5 0 1
